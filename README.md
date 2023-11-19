@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PGCD](https://github.com/Salah-Wassim/pgcd)
 
-- 🌱 I’m currently learning **Jenkins, Vue, AWS, Jenkins,**
+- 🌱 I’m currently learning **Vue, AWS, Jenkins**
 
 - 📝 I write articles on [https://fr.linkedin.com/in/salah-wassim-arfa-20a5a1194](https://fr.linkedin.com/in/salah-wassim-arfa-20a5a1194)
 
@@ -24,7 +24,7 @@
 <a href="https://dev.to/salahwassim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="salahwassim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salah-wassim-arfa-20a5a1194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salah-wassim-arfa-20a5a1194" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14355577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14355577" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@salahwassim_arf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@salahwassim_arf1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/salahwassim_arf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@salahwassim_arf1" height="30" width="40" /></a>
 <a href="https://discord.gg/scorpion9411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="scorpion9411" height="30" width="40" /></a>
 </p>
 
