@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salah-wassim" alt="salah-wassim" /></a> </p>
 
-- 🔭 I’m currently working on [SalahBook](https://github.com/Salah-Wassim/SalahBook)
+- 🔭 I’m currently working on [Immobilier](https://github.com/Salah-Wassim/immobilier-front)
 
 - 🌱 I’m currently learning **Vue, AWS, Jenkins**
 
 - 📝 I write articles on [https://fr.linkedin.com/in/salah-wassim-arfa-20a5a1194](https://fr.linkedin.com/in/salah-wassim-arfa-20a5a1194)
 
-- 💬 Ask me about **Javascript, React-Native, Node.js**
+- 💬 Ask me about **Javascript, React-Native, Node.js, Angular, PHP**
 
 - 📫 How to reach me **salahwassim.arfae1@gmail.com**
 
