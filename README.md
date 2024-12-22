@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salah-Wassim</h1>
-<h3 align="center">Cybersecurity Student | Seeking Apprenticeship</h3>
+<h3 align="center">Web and Mobile Developer | Seeking Apprenticeship</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=salah-wassim&label=Profile%20views&color=0e75b6&style=flat" alt="salah-wassim" /> </p>-->
 
